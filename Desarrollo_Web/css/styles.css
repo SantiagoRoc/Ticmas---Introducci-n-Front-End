@@ -1,0 +1,47 @@
+ul, p, ol, li{
+    font-family: Cambria, serif;
+    font-size: 20px;
+}
+
+h1{
+    background-color: #ebe8e8;
+    font-family:'Pacifico', cursive;
+    font-size: 70px;
+    margin: 3px;
+    padding: 3px;
+    text-align: center;
+}
+#hora{
+    justify-content: center;
+    font-size: 20px;
+    color: #0e0202;
+    font-family: 'Times New Roman', serif;
+}
+
+#Medios{
+    display: flex;
+    justify-content: center;
+    font-size: 17px;
+    color: #080303;
+}
+
+body{
+    background-color: rgb(192, 208, 224);
+}
+
+h2{
+    font-weight: 25px;
+    font-family: 'Times New Roman', serif;
+    margin-bottom: 25px;
+}
+
+#desarrollador-web{
+    font-size: 36px;
+    text-align: center;
+}
+
+img{
+    border: 6px solid black;
+    display:block;
+    margin: auto;
+}
